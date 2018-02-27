@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 body, html {
     height: 100%;
 }
-=======
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
 #gallery{
   border-radius: 20%;margin: 90px;
   box-shadow: 0 0 10px 0px black;
@@ -33,7 +30,6 @@ body, html {
 #carousel2:hover{
   box-shadow: 0 0 15px 0px black;
 }
-<<<<<<< HEAD
 #parallax{
   background-image: url('../img/smeasevent2.jpg');
   height: 100%;
@@ -68,8 +64,6 @@ body, html {
   font-family: arista;
   src: url(fonts/arista.alternate-light.ttf);
 }
-=======
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
 .carousel-nav-left,.carousel-nav-right{
   box-shadow: 0px 0px 5px black;
 }
@@ -81,7 +75,3 @@ body, html {
 }
 .card.has-shadow:hover{
   box-shadow: 0 0 20px 0px black;
-<<<<<<< HEAD
-=======
-}
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59

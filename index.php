@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-<?php
-  @session_start();
-?>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
 <!DOCTYPE html>
 <html>
   <head>
@@ -21,15 +15,9 @@
     <title>OSIS SMK Negeri 1 Surabaya</title>
     <link rel="shortcut icon" href="favicon.png"/>
     <link rel="stylesheet" href="css/bulma.css">
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/extensions/bulma-extensions.css">
     <link rel="stylesheet" href="css/fa-icon/fontawesome-all.min.css">
     <link rel="stylesheet" href="css/style.css">
-=======
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/extensions/bulma-extensions.css">
-    <link rel="stylesheet" href="css/fa-icon/fontawesome-all.min.css">
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
   </head>
   <body>
     <?php
@@ -39,17 +27,12 @@
       <div class="container">
         <div class="columns" style="padding-top: 20px">
           <div class="column is-4">
-<<<<<<< HEAD
             <h3 class="title is-3" style="line-height: 2; font-family: code">#RECENT UPDATE</h3>
-=======
-            <h3 class="title is-3" style="line-height: 2">#RECENT UPDATE</h3>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
           </div>
           <div class="column is-8">
             <div class="is-divider"></div>
           </div>
         </div>
-<<<<<<< HEAD
         <div class="columns" style="font-family: comfortaa">
           <div class="column">
             <div class="card has-shadow">
@@ -60,81 +43,42 @@
               </div>
               <div class="card-content">
                 <div class="content" style="text-align: center"><a href="pages/event.php">Week Of Language Festival</a></div>
-=======
-        <div class="columns">
-          <div class="column">
-            <div class="card has-shadow">
-              <div class="card-image">
-                <a class="image is-263x118" href="#">
-                  <img src="https://assets-a1.kompasiana.com/items/album/2017/08/29/cars3-webpageheader1-h1a-640x320-builder-53f99aa3-59a4f767d14ea20b110d1303.jpeg">
-                </a>
-              </div>
-              <div class="card-content">
-                <div class="content" style="text-align: center"><a>ARTIKEL 1</a></div>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
               </div>
             </div>
           </div>
           <div class="column">
             <div class="card has-shadow">
               <div class="card-image">
-<<<<<<< HEAD
                 <a class="image is-2by1" href="#">
                   <img src="https://bulma.io/images/placeholders/640x320.png">
                 </a>
               </div>
               <div class="card-content">
                 <div class="content" style="text-align: center"><a>ARTIKEL 2</a></div>
-=======
-                <a class="image is-263x118" href="#">
-                  <img src="http://www.sub5zero.com/wp-content/uploads/2013/01/wheelsandmore-Tuning_FF_Ferrari-640x320.jpg">
-                </a>
-              </div>
-              <div class="card-content">
-                <div class="content" style="text-align: center"><a>ARTIKEL 1</a></div>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
               </div>
             </div>
           </div>
           <div class="column">
             <div class="card has-shadow">
               <div class="card-image">
-<<<<<<< HEAD
                 <a class="image is-2by1" href="#">
                   <img src="https://bulma.io/images/placeholders/640x320.png">
                 </a>
               </div>
               <div class="card-content">
                 <div class="content" style="text-align: center"><a>ARTIKEL 3</a></div>
-=======
-                <a class="image is-263x118" href="#">
-                  <img src="http://www.gamesonomy.com/publications/97618/image.jpg">
-                </a>
-              </div>
-              <div class="card-content">
-                <div class="content" style="text-align: center"><a>ARTIKEL 1</a></div>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
               </div>
             </div>
           </div>
           <div class="column">
             <div class="card has-shadow">
               <div class="card-image">
-<<<<<<< HEAD
                 <a class="image is-2by1" href="#">
                   <img src="https://bulma.io/images/placeholders/640x320.png">
                 </a>
               </div>
               <div class="card-content">
                 <div class="content" style="text-align: center"><a>ARTIKEL 4</a></div>
-=======
-                <a class="image is-263x118" href="#">
-                  <img src="https://ihg.scene7.com/is/image/ihg/exp-des-Berlin-640x320?fmt=jpg">
-                </a>
-              </div>
-              <div class="card-content">
-                <div class="content" style="text-align: center"><a>ARTIKEL 1</a></div>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
               </div>
             </div>
           </div>
@@ -147,20 +91,12 @@
           <div class="columns">
             <div class="column" style="transform: skewY(3deg); padding: 4rem 0rem;">
               <figure class="is-2by1"  style="padding-top: 4rem">
-<<<<<<< HEAD
                 <!-- <video id="video" src="img/dummy.mp4" controls poster="https://bulma.io/images/placeholders/640x320.png"></video> -->
                 <video id="video" src="img/dummy.mp4" controls></video>
               </figure>
             </div>
             <div class="column" style="transform: skewY(3deg); text-align: right;">
               <h1 class="subtitle is-3" style="font-family: bebas; letter-spacing: 3.9px;">MPK-OSIS SMK NEGERI 1 SURABAYA</h1>
-=======
-                <video id="video" src="" controls poster="https://bulma.io/images/placeholders/640x320.png"></video>
-              </figure>
-            </div>
-            <div class="column" style="transform: skewY(3deg); text-align: right;">
-              <h1 class="subtitle is-3">MPK-OSIS SMK NEGERI 1 SURABAYA</h1>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
               <br><br><br><br><br><br><br>
               <div style="position: absolute; right: 200px; bottom: 75px">
                 <div class="tile is-parent" id="minigallery" style="z-index: -16; bottom: -120px; right: -162px;">
@@ -207,11 +143,7 @@
     <section style="padding-top: 120px;"> <!-- FULL GALLERY -->
       <div class="hero-body">
         <div class="container">
-<<<<<<< HEAD
           <h3 class="title is-3" style="font-family: code">#Full Gallery</h3>
-=======
-          <h3 class="title is-3">#Full Gallery</h3>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
           <div class="carousel is-2 carousel-animated carousel-animate-slide" id="carousel2">
             <div class="carousel-container">
               <div class="carousel-item is-active">
@@ -248,19 +180,11 @@
         </div>
       </div>
     </section>
-<<<<<<< HEAD
     <section class="hero is-large" id="uneg-uneg"> <!-- UNEG UNEG -->
       <img src="img/p.png" style="width: 100%;">
       <div class="hero-body" style="background: #FFF89A; padding: 20px 0px;">
         <div class="container">
           <h1 class="has-text-centered" style="font-family: arista; font-weight: 300; font-size: 82.6px; line-height: 1.17; letter-spacing: 8.3px;">Uneg - Uneg</h1>
-=======
-    <section class="hero is-large"> <!-- UNEG UNEG -->
-      <img src="img/p.png" style="width: 100%;">
-      <div class="hero-body" style="background: #FFF89A; padding: 20px 0px;">
-        <div class="container">
-          <h2 class="title is-2 has-text-centered">UNEG - UNEG</h2>
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
           <div class="content">
             <h1>Hello World</h1>
             <p>Lorem ipsum<sup><a>[1]</a></sup> dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Sub<sub>script</sub> works as well!</p>
@@ -305,7 +229,6 @@
     <script src="js/jquery.min.js"></script>
     <script src="css/extensions/bulma-carousel/carousel.js"></script>
     <script defer src="css/fa-icon/all.js"></script>
-<<<<<<< HEAD
     <script>
       $(document).ready(function(){
         $("a").on('click', function(event) {
@@ -323,8 +246,5 @@
         });
       });
     </script>
-=======
-
->>>>>>> 7ac763f6307c81b7d60a91731364edb4bf504d59
   </body>
 </html>
