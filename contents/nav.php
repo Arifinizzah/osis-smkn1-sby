@@ -67,7 +67,7 @@
                 <a class="navbar-item has-text-white" href="#">OSIS</a>
               </div>
             </div>
-            <a class="navbar-item has-text-white" href="pages/event.php"><span class="icon"><i class="far fa-newspaper"></i> </span>ARTIKEL</a>
+            <a class="navbar-item has-text-white" href="#artikel"><span class="icon"><i class="far fa-newspaper"></i> </span>ARTIKEL</a>
             <a class="navbar-item has-text-white" href="#uneg-uneg"><span class="icon"><i class="far fa-comments"></i> </span>UNEG-UNEG</a>
             <a class="navbar-item has-text-white" href="pages/about.php"><span class="icon"><i class="fas fa-info"></i> </span>TENTANG KAMI</a>
             <!-- <div class="control has-icons-left" style="margin: 20px 9px !important">
