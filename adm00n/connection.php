@@ -2,8 +2,8 @@
 
 $host = 'localhost';
 $username = 'root';
-$password = '';
-$dbname = '';
+$password = 'nn';
+$dbname = 'osis';
 
 try {
 	$connection = new PDO("mysql:host={$host};dbname={$dbname}", $username, $password);

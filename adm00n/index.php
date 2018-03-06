@@ -44,9 +44,10 @@
                     Login
                   </button>
                 </div>
-                <!-- <div class="margin-top20 text-center">
-                  Don't have an account? <a href="register.html">Create One</a>
-                </div> -->
+                <div class="margin-top20 text-center">
+                  <a href="../index.php"><span>Back to Index Page</span></a>
+                  <!-- Don't have an account? <a href="register.html">Create One</a> -->
+                </div>
               </form>
             </div>
           </div>

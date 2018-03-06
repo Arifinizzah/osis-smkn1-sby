@@ -31,7 +31,11 @@ if(empty($cek_username) && empty($cek_password)) {
 			if($verif_password) {
 				$_SESSION['users'] = $result['id'];
 				$_SESSION['login'];
-				echo "<script>alert('Login Sukses');document.location='beranda.php'</script>";
+
+				$stmt = $connection->prepare("SELECT * FROM users WHERE id=?");
+				$stmt->execute([$_SESSION['users']]);
+				$users = $stmt->fetch(PDO::FETCH_ASSOC);
+				echo "<script>alert('Login Sukses.. Selamat Datang ".$users['nama']."');document.location='beranda.php'</script>";
 			}
 
 			else {
