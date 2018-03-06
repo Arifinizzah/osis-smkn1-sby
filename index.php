@@ -12,7 +12,7 @@
     <meta content='all' name='audience'/>
     <meta content='general' name='rating'/>
     <meta name="revisit-after" content="10"/>
-    <title>OSIS SMK Negeri 1 Surabaya</title>
+    <title>MPK-OSIS SMK Negeri 1 Surabaya</title>
     <link rel="shortcut icon" href="favicon.png"/>
     <link rel="stylesheet" href="css/bulma.css">
     <link rel="stylesheet" href="css/extensions/bulma-extensions.css">
@@ -25,36 +25,31 @@
     ?>
     <section style="padding-bottom: 40px;">  <!-- RECENT UPDATE -->
       <div class="container">
-        <div class="columns" style="padding-top: 20px">
-          <div class="column is-4">
-            <h3 class="title is-3" style="line-height: 2; font-family: code">#RECENT UPDATE</h3>
-          </div>
-          <div class="column is-8">
-            <div class="is-divider"></div>
-          </div>
-        </div>
+        <div id="artikel"></div>
+        <br>
+        <h3 class="title is-3" style="line-height: 2; font-family: code; padding-top: 20px">#RECENT UPDATE</h3>
         <div class="columns" style="font-family: comfortaa">
           <div class="column">
             <div class="card has-shadow">
               <div class="card-image">
-                <a class="image is-2by1" href="pages/event.php">
+                <a class="image is-2by1" href="pages/wolf.php">
                   <img src="img/smeasevent2.jpg">
                 </a>
               </div>
               <div class="card-content">
-                <div class="content" style="text-align: center"><a href="pages/event.php">Week Of Language Festival</a></div>
+                <div class="content" style="text-align: center"><a href="pages/wolf.php">Week Of Language Festival</a></div>
               </div>
             </div>
           </div>
           <div class="column">
             <div class="card has-shadow">
               <div class="card-image">
-                <a class="image is-2by1" href="#">
-                  <img src="https://bulma.io/images/placeholders/640x320.png">
+                <a class="image is-2by1" href="pages/mpk-osis-punya-web-baru.php">
+                  <img src="img/sambutan.png">
                 </a>
               </div>
               <div class="card-content">
-                <div class="content" style="text-align: center"><a>ARTIKEL 2</a></div>
+                <div class="content" style="text-align: center"><a href="pages/mpk-osis-punya-web-baru.php">MPK-OSIS Punya Web Baru</a></div>
               </div>
             </div>
           </div>

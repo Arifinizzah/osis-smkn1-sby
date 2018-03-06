@@ -12,7 +12,7 @@
     <meta content='all' name='audience'/>
     <meta content='general' name='rating'/>
     <meta name="revisit-after" content="10"/>
-    <title>OSIS SMK Negeri 1 Surabaya</title>
+    <title>MPK-OSIS SMK Negeri 1 Surabaya</title>
     <link rel="shortcut icon" href="favicon.png"/>
     <link rel="stylesheet" href="../css/bulma.css">
     <link rel="stylesheet" href="../css/extensions/bulma-extensions.css">
@@ -69,41 +69,17 @@
         </div>
       </div>
     </nav>
-    <div id="parallax"></div>
     <section class="hero is-medium">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title is-1 has-text-centered" style="font-family: comfortaa;">WEEK OF LANGUAGE FESTIVAL</h1>
-          <div class="columns" style="padding: 50px 0px;">
-            <div class="column">
-              <figure class="image is-256x256">
-                <img src="../img/tempat-acara2.png">
-              </figure>
-            </div>
-            <div class="column">
-              <figure class="image is-256x256">
-                <img src="../img/tanggal-pelaksanaan2.png">
-              </figure>
-            </div>
-            <div class="column">
-              <figure class="image is-256x256">
-                <img src="../img/waktu-pelaksanaan2.png">
-              </figure>
-            </div>
-          </div>
-          <div class="is-divider" style="padding: 30px 0px"></div>
-          <h1 class="title is-1 has-text-centered" style="font-family: comfortaa;">SYARAT DAN KETENTUAN</h1>
+          <br>
+          <h1 class="title is-1 has-text-centered" style="font-family: comfortaa;">MPK-OSIS PUNYA WEB BARU LOH...</h1>
+          <div class="is-divider"></div>
           <div class="content">
-            <h1>Hello World</h1>
-            <p>Lorem ipsum<sup><a>[1]</a></sup> dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Sub<sub>script</sub> works as well!</p>
-            <h2>Second level</h2>
-            <p>Curabitur accumsan turpis pharetra <strong>augue tincidunt</strong> blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.</p>
-            <ul>
-              <li>In fermentum leo eu lectus mollis, quis dictum mi aliquet.</li>
-              <li>Morbi eu nulla lobortis, lobortis est in, fringilla felis.</li>
-              <li>Aliquam nec felis in sapien venenatis viverra fermentum nec lectus.</li>
-              <li>Ut non enim metus.</li>
-            </ul>
+            <p>(31/12/2017) Hai teman-teman, apa kabar nih? Gimana liburan semesternya?  Gak kerasa ya kita udah mulai masuk sekolah kembali. Oiya kita dari OSIS MPK SMK Negeri 1 Surabaya mengucapkan "Selamat Tahun Baru 2018" semoga ditahun ini kita bisa memperbaiki kesalahan kita ditahun sebelumnya dan lebih baik ditahun ini. Nah, di awal tahun 2018 ini kita mau ngasih kabar baik nih untuk kalian semua.<p>
+            <p>Agar kalian semua gak ketinggalan info up to date  atau ketinggalan jaman yang udah maju, kita udah nyiapin sebuah website loh! Nah, website ini digunakan untuk memberikan info yang ada di sekolah yang kita banggakan ini.</p>
+            <p>Nah dengan menyebut nama Allah SWT yang Maha Pengasih lagi Maha Penyayang, kami panjatkan puja dan puji syukur atas kehadirat-Nya, yang telah melimpahkan rahmat, dan hidayah kepada kami, sehingga kami dapat membuat website yang aktif mengenai event-event sekolah. Semoga dilancarkan segala yang kami rencanakan guna memajukan MPK- OSIS SMK Negeri 1 Surabaya.</p>
+            <p>Sekian dari kami, atas perhatiannya kami ucapkan terimakasih</p>
           </div>
         </div>
       </div>

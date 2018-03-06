@@ -64,58 +64,46 @@
             </div>
             <a class="navbar-item has-text-white" href="event.php"><span class="icon"><i class="far fa-newspaper"></i> </span>ARTIKEL</a>
             <a class="navbar-item has-text-white" href="../index.php#uneg-uneg"><span class="icon"><i class="far fa-comments"></i> </span>UNEG-UNEG</a>
-            <a class="navbar-item has-text-white" href="#"><span class="icon"><i class="fas fa-info"></i> </span>TENTANG KAMI</a>
+            <a class="navbar-item has-text-white" href="about.php"><span class="icon"><i class="fas fa-info"></i> </span>TENTANG KAMI</a>
           </div>
         </div>
       </div>
     </nav>
-    <section class="hero is-light is-bold is-fullheight">
+    <div id="parallax"></div>
+    <section class="hero is-medium">
       <div class="hero-body">
-        <div class="container" style="max-width: 720px">
-          <div class="box" style="border-radius: 30px">
-            <article class="media">
-              <div class="media-left">
-                <figure class="image is-128x128">
-                  <img src="../img/erik.jpg" alt="" style="height: 100%; width: 100%; border-radius: 50%; object-fit: contain">
-                </figure>
-              </div>
-              <div class="media-content">
-                <div class="content has-text-centered">
-                  <p>
-                    <strong>Erik Prayoga</strong> <!--<small>@arifin_izz</small>-->
-                    <br>
-                    Bertugas sebagai desainer dan penanggung jawab
-                    <br>
-                    Instagram <span class="icon"><i class="fab fa-instagram"> </i></span><a class="has-text-info" href="https://www.instagram.com/erik_riga/">@erik_riga</a>
-                    <br>
-                  </p>
-                </div>
-              </div>
-            </article>
+        <div class="container">
+          <h1 class="title is-1 has-text-centered" style="font-family: comfortaa;">WEEK OF LANGUAGE FESTIVAL</h1>
+          <div class="columns" style="padding: 50px 0px;">
+            <div class="column">
+              <figure class="image is-256x256">
+                <img src="../img/tempat-acara2.png">
+              </figure>
+            </div>
+            <div class="column">
+              <figure class="image is-256x256">
+                <img src="../img/tanggal-pelaksanaan2.png">
+              </figure>
+            </div>
+            <div class="column">
+              <figure class="image is-256x256">
+                <img src="../img/waktu-pelaksanaan2.png">
+              </figure>
+            </div>
           </div>
-          <div class="box" style="border-radius: 30px">
-            <article class="media">
-              <div class="media-left">
-                <figure class="image is-128x128">
-                  <img src="../img/arifin3.jpg" alt="" style="height: 100%; width: 100%; border-radius: 50%; object-fit: contain">
-                </figure>
-              </div>
-              <div class="media-content">
-                <div class="content has-text-centered">
-                  <p>
-                    <strong>Arifin Izzah</strong> <!--<small>@arifin_izz</small>-->
-                    <br>
-                    Bertugas sebagai programmer
-                    <br>
-                    Github <span class="icon"><i class="fab fa-github"> </i></span><a class="has-text-info" href="https://github.com/arifinizz/">@arifinizz</a>
-                    <br>
-                    Instagram <span class="icon"><i class="fab fa-instagram"> </i></span><a class="has-text-info" href="https://www.instagram.com/ariifin_izz/">@ariifin_izz</a>
-                    <br>
-                    Google Plus <span class="icon"><i class="fab fa-google-plus-g"> </i></span><a class="has-text-info" href="https://plus.google.com/+arifinizzah">+arifinizzah</a>
-                  </p>
-                </div>
-              </div>
-            </article>
+          <div class="is-divider" style="padding: 30px 0px"></div>
+          <h1 class="title is-1 has-text-centered" style="font-family: comfortaa;">SYARAT DAN KETENTUAN</h1>
+          <div class="content">
+            <h1>Hello World</h1>
+            <p>Lorem ipsum<sup><a>[1]</a></sup> dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Sub<sub>script</sub> works as well!</p>
+            <h2>Second level</h2>
+            <p>Curabitur accumsan turpis pharetra <strong>augue tincidunt</strong> blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.</p>
+            <ul>
+              <li>In fermentum leo eu lectus mollis, quis dictum mi aliquet.</li>
+              <li>Morbi eu nulla lobortis, lobortis est in, fringilla felis.</li>
+              <li>Aliquam nec felis in sapien venenatis viverra fermentum nec lectus.</li>
+              <li>Ut non enim metus.</li>
+            </ul>
           </div>
         </div>
       </div>
